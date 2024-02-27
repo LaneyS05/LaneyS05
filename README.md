@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LaneyS05
 - 👀 I’m interested in learning more about software development 
-- 🌱 I’m currently learning cybersecurity 
+- 🌱 I’m currently learning Python 
 - 💞️ I’m looking for jobs in front-end development
 - 📫 you can reach me through my email laney.staggs05@gmail.com
 
